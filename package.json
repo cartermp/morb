@@ -1,0 +1,26 @@
+{
+  "name": "morb",
+  "version": "0.1.0",
+  "description": "It's morbin' time",
+  "main": "index.js",
+  "scripts": {
+    "test": "morb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartermp/morb.git"
+  },
+  "keywords": [
+    "morbius",
+    "morbin",
+    "time",
+    "morb",
+    "morbilicious"
+  ],
+  "author": "cartermp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cartermp/morb/issues"
+  },
+  "homepage": "https://github.com/cartermp/morb#readme"
+}
